@@ -1,0 +1,15 @@
+{
+  "name": "mailchip",
+  "version": "1.0.0",
+  "description": "this is application that will send data from web page to mailChip website to know the subscribers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshkumar Vishwakarma",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
